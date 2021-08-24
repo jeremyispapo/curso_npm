@@ -14,7 +14,15 @@
   "author": "palominodev <jeremyispapo@gmail.com>",
   "license": "MIT",
   "bin": {
-    "ramdom-numeros": "./bin/global.js"
+    "ramdom-numeros": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyispapo/curso_npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremyispapo/curso_npm/issues"
+  },
+  "homepage": "https://github.com/jeremyispapo/curso_npm#readme"
 }
